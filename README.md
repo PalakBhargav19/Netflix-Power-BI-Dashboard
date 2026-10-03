@@ -463,3 +463,68 @@ Netflix-PowerBI-Dashboard/
     ├── page6-region-country-title.png
     ├── page7-year-month-title.png
     └── page8-category-genre-title.png
+
+🚀 How to Use
+Option 1 — Open the Power BI File
+Download the .pbix file from this repository.
+Open it using Microsoft Power BI Desktop.
+If Power BI asks for the dataset location, select the included CSV dataset.
+Refresh the data if required.
+Explore the eight dashboard pages.
+Use slicers and drill-through options to interact with the report.
+Option 2 — Explore Screenshots
+Open the Screenshots folder to view each dashboard page without opening Power BI.
+📸 Dashboard Preview
+Add screenshots of all eight completed pages to the Screenshots folder.
+Recommended order:
+Content Overview
+Global Content Insights
+Content Growth & Trend Analysis
+Audience & Content Category Intelligence
+Executive Business Intelligence
+Region → Country → Title Drill-Through
+Year → Month → Title Analysis
+Category → Genre → Title Analysis
+🎓 Skills Demonstrated
+This project demonstrates practical skills in:
+Data Analytics
+Business Intelligence
+Microsoft Power BI
+Power Query
+DAX
+Data Cleaning
+Data Transformation
+Data Visualization
+KPI Development
+Interactive Dashboard Design
+Drill-Through Analysis
+Geographic Analysis
+Trend Analysis
+Genre & Category Analysis
+Analytical Storytelling
+GitHub Project Documentation
+🔮 Future Improvements
+Possible future enhancements include:
+Adding more advanced DAX measures
+Creating additional tooltip pages
+Adding more detailed genre-level analysis
+Improving title-level search and exploration
+Adding additional time-based metrics
+Publishing the dashboard online through Power BI Service
+Adding automated data refresh where supported
+👩‍💻 Author
+Palak Bhargav
+B.Tech — Computer Science & Artificial Intelligence
+Focus: Data Analytics | Power BI | Python | SQL
+Connect
+GitHub: https://github.com/PalakBhargav19
+LinkedIn: https://linkedin.com/in/palak-bhargav-1296a4290
+
+📄 Disclaimer
+This project is created for **educational, learning, and portfolio purposes**.
+
+Netflix is a trademark of its respective owner. This project is **not affiliated with, sponsored by, or endorsed by Netflix**.
+
+The dataset used in this project is intended for analytical and educational purposes. Dataset ownership and licensing rights remain with the respective source/owner.
+
+The analysis and visualizations presented in this dashboard are based on the dataset used for this project and should not be considered official Netflix statistics.
