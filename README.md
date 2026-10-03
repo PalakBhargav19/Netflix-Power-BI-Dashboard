@@ -129,7 +129,7 @@ This page acts as the main overview of the complete Netflix dataset and provides
 
 **Purpose:** Analyzes Netflix content distribution across countries and regions.
 
-![Page 2 - Content Analysis](Page-2%20Content-Analysis.png)
+![Page 2 - Content Analysis](Page-2%200Content Analysis.png)
 
 ### Key KPIs
 
@@ -289,7 +289,7 @@ The project contains dedicated drill-through pages that allow users to move from
 
 **Purpose:** Provides detailed analysis after selecting a region, country or title.
 
-![Page 6 - Country Analysis](Page-6%20Country-Analysis.png)
+![Page 6 - Country Analysis](Page-6%20Country Analysis.png)
 
 ### Selected Filters
 
@@ -331,7 +331,7 @@ This page demonstrates Power BI drill-through from regional analysis to country 
 
 **Purpose:** Provides time-based drill-through analysis.
 
-![Page 7 - Title Analysis](Page-7%20Title-Analysis.png)
+![Page 7 - Title Analysis](Page-7%20Title- Analysis.png)
 
 ### Selected Filters
 
