@@ -321,6 +321,9 @@ The project contains dedicated drill-through pages that allow users to move from
 - Duration
 - Director
 
+**🔍 Drill-Through:**  
+Users can select a country from the dashboard and **drill through to the detailed Country Analysis page** to explore country-specific content, including content type, genres, and title-level information.
+
 ### Highlight
 
 This page demonstrates Power BI drill-through from regional analysis to country and title-level information.
@@ -352,6 +355,11 @@ This page demonstrates Power BI drill-through from regional analysis to country 
 - Content by Type
 - Movies vs TV Shows Trend
 - Title Details
+
+**🔍 Drill-Through:**  
+Users can select a specific title from the dashboard and **drill through to the Title Analysis page** to view detailed information related to that selected title.
+
+The drill-through functionality makes it possible to move from **high-level dashboard insights to detailed title-level analysis** without manually searching through the dataset.
 
 ### Highlight
 
