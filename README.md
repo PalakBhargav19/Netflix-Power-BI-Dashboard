@@ -101,7 +101,7 @@ The data preparation process included:
 
 **Purpose:** Provides a high-level overview of the Netflix content library.
 
-![Page 1 - Content Overview]()
+![Page 1 - Content Overview](Page-1 Overview.png)
 
 ### Key KPIs
 
