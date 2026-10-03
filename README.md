@@ -128,7 +128,7 @@ This page acts as the main overview of the complete Netflix dataset and provides
 
 **Purpose:** Analyzes Netflix content distribution across countries and regions.
 
-![Page 2 - Global Content Insights](Dashboard-Screenshots/Page-2-Content-Analysis.png)
+![Page 2 - Global Content Insights](Dashboard-Screenshots/Page-2 Content -Analysis.png)
 
 ### Key KPIs
 
@@ -161,7 +161,7 @@ The page combines geographical analysis with regional and content-type compariso
 
 **Purpose:** Explores how Netflix content has changed over time.
 
-![Page 3 - Content Growth Trends](Dashboard-Screenshots/Page-3-Trends.png)
+![Page 3 - Content Growth Trends](Dashboard-Screenshots/Page-3Trends.png)
 
 ### Key KPIs
 
@@ -194,7 +194,7 @@ This page focuses on historical content trends and regional growth patterns.
 
 **Purpose:** Provides deeper analysis of ratings, categories, genres and content types.
 
-![Page 4 - Audience & Content Category](Dashboard-Screenshots/Page-4-Regional-Analysis.png)
+![Page 4 - Audience & Content Category](Dashboard-Screenshots/Page-4 Regional-Analysis.png)
 
 ### Key KPIs
 
@@ -237,7 +237,7 @@ The page includes navigation sections for:
 
 **Purpose:** Presents the major Netflix metrics and analytical findings in an executive-style dashboard.
 
-![Page 5 - Executive Business Intelligence](Dashboard-Screenshots/Page-5-Insights.png)
+![Page 5 - Executive Business Intelligence](Dashboard-Screenshots/Page-5 Insights.png)
 
 ### Key KPIs
 
@@ -287,7 +287,7 @@ The project contains dedicated drill-through pages that allow users to move from
 
 **Purpose:** Provides detailed analysis after selecting a region, country or title.
 
-![Page 6 - Country Analysis](Dashboard-Screenshots/Page-6-Country-Analysis.png)
+![Page 6 - Country Analysis](Dashboard-Screenshots/Page-6-Country Analysis.png)
 
 ### Selected Filters
 
@@ -329,7 +329,7 @@ This page demonstrates Power BI drill-through from regional analysis to country 
 
 **Purpose:** Provides time-based drill-through analysis.
 
-![Page 7 - Title Analysis](Dashboard-Screenshots/Page-7-Title-Analysis.png)
+![Page 7 - Title Analysis](Dashboard-Screenshots/Page-7 Title-Analysis.png)
 
 ### Selected Filters
 
@@ -361,7 +361,7 @@ The page allows users to examine how content is distributed across months and ex
 
 **Purpose:** Provides detailed category and genre analysis.
 
-![Page 8 - Content Details](Dashboard-Screenshots/Page-8-Content-Details.png)
+![Page 8 - Content Details](Dashboard-Screenshots/Page-8 Content-Details.png)
 
 ### Selected Filters
 
