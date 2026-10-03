@@ -519,8 +519,7 @@ Netflix-Power-BI-Dashboard/
 **Palak Bhargav**  
 B.Tech Computer Science & Artificial Intelligence
 
-- 🔗 **GitHub:** [{https://github.com/PalakBhargav19}
-        {github.com/PalakBhargav19}]
+- 🔗 **GitHub:** [{https://github.com/PalakBhargav19}]
 - 💼 **LinkedIn:** [https://linkedin.com/in/palak-bhargav-1296a42]
 
 ---
