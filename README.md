@@ -495,7 +495,7 @@ Open the `Dashboard-Screenshots` folder to view all 8 dashboard pages without op
 
 # 📁 Repository Structure
 
-```text
+
 Netflix-Power-BI-Dashboard/
 │
 ├── Dataset.csv
@@ -519,8 +519,9 @@ Netflix-Power-BI-Dashboard/
 **Palak Bhargav**  
 B.Tech Computer Science & Artificial Intelligence
 
-- 🔗 **GitHub:** [PalakBhargav19](https://github.com/PalakBhargav19)
-- 💼 **LinkedIn:** [Palak Bhargav](https://www.linkedin.com/in/palak-bhargav-1296a4290/)
+- 🔗 **GitHub:** [{https://github.com/PalakBhargav19}
+        {github.com/PalakBhargav19}]
+- 💼 **LinkedIn:** [https://linkedin.com/in/palak-bhargav-1296a42]
 
 ---
 
