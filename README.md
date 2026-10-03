@@ -130,6 +130,7 @@ This page acts as the main overview of the complete Netflix dataset and provides
 **Purpose:** Analyzes Netflix content distribution across countries and regions.
 
 ![Page 2 - Content Analysis](Page-2%20Content-Analysis.png)
+
 ### Key KPIs
 
 - Total Countries
@@ -510,3 +511,16 @@ Netflix-Power-BI-Dashboard/
     ├── Page-6-Country-Analysis.png
     ├── Page-7-Title-Analysis.png
     └── Page-8-Content-Details.png
+---
+
+
+
+## ⚠️ Disclaimer
+
+This project is created for **educational, portfolio, and data analytics practice purposes**.
+
+The Netflix dataset used in this project is publicly available and is used only for learning and visualization purposes. The analysis, insights, and visualizations presented in this dashboard are based on the available dataset and should not be considered official Netflix statistics.
+
+This project is an independent work and is **not affiliated with, endorsed by, or officially associated with Netflix, Inc.**
+
+All trademarks, logos, and brand names belong to their respective owners.
