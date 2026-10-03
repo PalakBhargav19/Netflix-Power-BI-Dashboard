@@ -101,6 +101,8 @@ The data preparation process included:
 
 **Purpose:** Provides a high-level overview of the Netflix content library.
 
+![Page 1 - Content Overview]()
+
 ### Key KPIs
 
 - Total Titles
@@ -125,6 +127,8 @@ This page acts as the main overview of the complete Netflix dataset and provides
 ## 2️⃣ Page 2 — Global Content Insights Dashboard
 
 **Purpose:** Analyzes Netflix content distribution across countries and regions.
+
+![Page 2 - Global Content Insights](Dashboard-Screenshots/Page-2-Content-Analysis.png)
 
 ### Key KPIs
 
@@ -157,6 +161,8 @@ The page combines geographical analysis with regional and content-type compariso
 
 **Purpose:** Explores how Netflix content has changed over time.
 
+![Page 3 - Content Growth Trends](Dashboard-Screenshots/Page-3-Trends.png)
+
 ### Key KPIs
 
 - Total Titles
@@ -187,6 +193,8 @@ This page focuses on historical content trends and regional growth patterns.
 ## 4️⃣ Page 4 — Audience & Content Category Intelligence Dashboard
 
 **Purpose:** Provides deeper analysis of ratings, categories, genres and content types.
+
+![Page 4 - Audience & Content Category](Dashboard-Screenshots/Page-4-Regional-Analysis.png)
 
 ### Key KPIs
 
@@ -228,6 +236,8 @@ The page includes navigation sections for:
 ## 5️⃣ Page 5 — Executive Business Intelligence Dashboard
 
 **Purpose:** Presents the major Netflix metrics and analytical findings in an executive-style dashboard.
+
+![Page 5 - Executive Business Intelligence](Dashboard-Screenshots/Page-5-Insights.png)
 
 ### Key KPIs
 
@@ -277,6 +287,8 @@ The project contains dedicated drill-through pages that allow users to move from
 
 **Purpose:** Provides detailed analysis after selecting a region, country or title.
 
+![Page 6 - Country Analysis](Dashboard-Screenshots/Page-6-Country-Analysis.png)
+
 ### Selected Filters
 
 - Region
@@ -317,6 +329,8 @@ This page demonstrates Power BI drill-through from regional analysis to country 
 
 **Purpose:** Provides time-based drill-through analysis.
 
+![Page 7 - Title Analysis](Dashboard-Screenshots/Page-7-Title-Analysis.png)
+
 ### Selected Filters
 
 - Year
@@ -346,6 +360,8 @@ The page allows users to examine how content is distributed across months and ex
 ## 8️⃣ Page 8 — Content Analysis: Category → Genre → Title
 
 **Purpose:** Provides detailed category and genre analysis.
+
+![Page 8 - Content Details](Dashboard-Screenshots/Page-8-Content-Details.png)
 
 ### Selected Filters
 
@@ -445,86 +461,51 @@ The Power BI report includes:
 
 ---
 
-# 📂 Repository Structure
+# 🚀 How to Use
+
+### Option 1 – Open the Power BI Dashboard
+
+1. Download the `NETFLIX PROJECT.pbix` file from this repository.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Explore the interactive dashboard using slicers, filters, charts, and drill-through pages.
+4. Use the different dashboard pages to analyze Netflix content by category, genre, country, region, year, rating, and title.
+
+### Option 2 – Explore Dashboard Screenshots
+
+Open the `Dashboard-Screenshots` folder to view all 8 dashboard pages without opening Power BI.
+
+---
+
+# 📊 Dashboard Page Summary
+
+| Page | Analysis |
+|---|---|
+| Page 1 | Content Overview |
+| Page 2 | Global Content Insights |
+| Page 3 | Content Growth & Trends |
+| Page 4 | Audience & Content Category |
+| Page 5 | Executive Business Intelligence |
+| Page 6 | Region → Country → Title |
+| Page 7 | Year → Month → Title |
+| Page 8 | Category → Genre → Title |
+
+---
+
+# 📁 Repository Structure
 
 ```text
-Netflix-PowerBI-Dashboard/
+Netflix-Power-BI-Dashboard/
 │
-├── Netflix_Dashboard.pbix
-├── netflix_titles.csv
+├── Dataset.csv
+├── NETFLIX PROJECT.pbix
 ├── README.md
 │
-└── Screenshots/
-    ├── page1-content-overview.png
-    ├── page2-global-content-insights.png
-    ├── page3-content-growth-trends.png
-    ├── page4-audience-content-category.png
-    ├── page5-executive-business-intelligence.png
-    ├── page6-region-country-title.png
-    ├── page7-year-month-title.png
-    └── page8-category-genre-title.png
-
-🚀 How to Use
-Option 1 — Open the Power BI File
-Download the .pbix file from this repository.
-Open it using Microsoft Power BI Desktop.
-If Power BI asks for the dataset location, select the included CSV dataset.
-Refresh the data if required.
-Explore the eight dashboard pages.
-Use slicers and drill-through options to interact with the report.
-Option 2 — Explore Screenshots
-Open the Screenshots folder to view each dashboard page without opening Power BI.
-📸 Dashboard Preview
-Add screenshots of all eight completed pages to the Screenshots folder.
-Recommended order:
-Content Overview
-Global Content Insights
-Content Growth & Trend Analysis
-Audience & Content Category Intelligence
-Executive Business Intelligence
-Region → Country → Title Drill-Through
-Year → Month → Title Analysis
-Category → Genre → Title Analysis
-🎓 Skills Demonstrated
-This project demonstrates practical skills in:
-Data Analytics
-Business Intelligence
-Microsoft Power BI
-Power Query
-DAX
-Data Cleaning
-Data Transformation
-Data Visualization
-KPI Development
-Interactive Dashboard Design
-Drill-Through Analysis
-Geographic Analysis
-Trend Analysis
-Genre & Category Analysis
-Analytical Storytelling
-GitHub Project Documentation
-🔮 Future Improvements
-Possible future enhancements include:
-Adding more advanced DAX measures
-Creating additional tooltip pages
-Adding more detailed genre-level analysis
-Improving title-level search and exploration
-Adding additional time-based metrics
-Publishing the dashboard online through Power BI Service
-Adding automated data refresh where supported
-👩‍💻 Author
-Palak Bhargav
-B.Tech — Computer Science & Artificial Intelligence
-Focus: Data Analytics | Power BI | Python | SQL
-Connect
-GitHub: https://github.com/PalakBhargav19
-LinkedIn: https://linkedin.com/in/palak-bhargav-1296a4290
-
-📄 Disclaimer
-This project is created for **educational, learning, and portfolio purposes**.
-
-Netflix is a trademark of its respective owner. This project is **not affiliated with, sponsored by, or endorsed by Netflix**.
-
-The dataset used in this project is intended for analytical and educational purposes. Dataset ownership and licensing rights remain with the respective source/owner.
-
-The analysis and visualizations presented in this dashboard are based on the dataset used for this project and should not be considered official Netflix statistics.
+└── Dashboard-Screenshots/
+    ├── Page-1-Overview.png
+    ├── Page-2-Content-Analysis.png
+    ├── Page-3-Trends.png
+    ├── Page-4-Regional-Analysis.png
+    ├── Page-5-Insights.png
+    ├── Page-6-Country-Analysis.png
+    ├── Page-7-Title-Analysis.png
+    └── Page-8-Content-Details.png
